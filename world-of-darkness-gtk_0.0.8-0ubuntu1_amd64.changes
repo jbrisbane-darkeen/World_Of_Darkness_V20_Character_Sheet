@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 01 Sep 2026 12:00:00 +0000
+Source: world-of-darkness-gtk
+Binary: world-of-darkness-gtk
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 0.0.8-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: jason <jason.a.brisbane@gmail.com>
+Changed-By: jason <jason.a.brisbane@gmail.com>
+Description:
+ world-of-darkness-gtk - gtk package for World_Of_Darkness
+Changes:
+ world-of-darkness-gtk (0.0.8-0ubuntu1) unstable; urgency=low
+ .
+   * .
+Checksums-Sha1:
+ 9d5bec669d7ce6d55862346552f647afbca1eb4f 619 world-of-darkness-gtk_0.0.8-0ubuntu1.dsc
+ 0e392fe756010ee3a5aaab8c3b8f7eb1603a545d 924 world-of-darkness-gtk_0.0.8-0ubuntu1.tar.gz
+ 882fd67a726c994e0d127264c9231a5e9bf7dbec 1432 world-of-darkness-gtk_0.0.8-0ubuntu1_all.deb
+ 71e9e80110379da2c9547897aeb0fc21c8a7f043 6790 world-of-darkness-gtk_0.0.8-0ubuntu1_amd64.buildinfo
+Checksums-Sha256:
+ 6cde613714848eb48848f2a23c95f6ee04c26237aa7da950e8c99493ccad5006 619 world-of-darkness-gtk_0.0.8-0ubuntu1.dsc
+ 3bb04cdebe65cd4ccce3bfd6524c4bd45c446582a206a8122c0bb8f29a6ce717 924 world-of-darkness-gtk_0.0.8-0ubuntu1.tar.gz
+ c52ced330ad6356ee5e455c1d223b9291b070609be0d4062605effcf19baa17e 1432 world-of-darkness-gtk_0.0.8-0ubuntu1_all.deb
+ 16d37f2e37a65b79e15527bbb43a50e69a4328036e3901c721224791e4354a89 6790 world-of-darkness-gtk_0.0.8-0ubuntu1_amd64.buildinfo
+Files:
+ 95e82ec1c1bc8dfc564c297105cb9bbf 619 contrib/games optional world-of-darkness-gtk_0.0.8-0ubuntu1.dsc
+ 555276dc970271c5bada7f59d07f1c35 924 contrib/games optional world-of-darkness-gtk_0.0.8-0ubuntu1.tar.gz
+ c015184fc533dbdba4550abbc951efee 1432 contrib/games optional world-of-darkness-gtk_0.0.8-0ubuntu1_all.deb
+ 17b5a0c33453e96093b3f14cf1a41388 6790 contrib/games optional world-of-darkness-gtk_0.0.8-0ubuntu1_amd64.buildinfo

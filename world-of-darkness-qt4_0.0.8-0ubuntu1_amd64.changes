@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 01 Sep 2026 12:00:00 +0000
+Source: world-of-darkness-qt4
+Binary: world-of-darkness-qt4
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 0.0.8-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: jason <jason.a.brisbane@gmail.com>
+Changed-By: jason <jason.a.brisbane@gmail.com>
+Description:
+ world-of-darkness-qt4 - qt4 package for World_Of_Darkness
+Changes:
+ world-of-darkness-qt4 (0.0.8-0ubuntu1) unstable; urgency=low
+ .
+   * .
+Checksums-Sha1:
+ 849b856955d9e0c18d284c36f3cb349b381908fd 619 world-of-darkness-qt4_0.0.8-0ubuntu1.dsc
+ ed5526b80df65d427669d9f0c866f8e2ef121a36 933 world-of-darkness-qt4_0.0.8-0ubuntu1.tar.gz
+ 94e811f20e2b0a24370b32387b8b64d4b3296279 1432 world-of-darkness-qt4_0.0.8-0ubuntu1_all.deb
+ b1ddb08c440f1f3fbcdedcf7e125434e03a4e26a 6790 world-of-darkness-qt4_0.0.8-0ubuntu1_amd64.buildinfo
+Checksums-Sha256:
+ 852aaf9a9a8e1ed98d764fcfe875a6fd6562bcf797db711e819ba38175ea47a4 619 world-of-darkness-qt4_0.0.8-0ubuntu1.dsc
+ ec0326af0ff5689280c1c93284ea96f6655b13247923e268d3eb1e76eba034eb 933 world-of-darkness-qt4_0.0.8-0ubuntu1.tar.gz
+ 98d3922ccabde6c3fc9b58000a2c9e2211f190810f5c5185dd57ab678c5c52a9 1432 world-of-darkness-qt4_0.0.8-0ubuntu1_all.deb
+ 2e785ea01e567b470093cd9014f623499dcdaeebd2cfa3f9009e02da683500b6 6790 world-of-darkness-qt4_0.0.8-0ubuntu1_amd64.buildinfo
+Files:
+ 0953ef9ae55a35615f91dce96d4ba2d2 619 contrib/games optional world-of-darkness-qt4_0.0.8-0ubuntu1.dsc
+ 006abe61a9552c0d64ae987346923cbf 933 contrib/games optional world-of-darkness-qt4_0.0.8-0ubuntu1.tar.gz
+ aec0e25ea6557448a57523bfbb92149d 1432 contrib/games optional world-of-darkness-qt4_0.0.8-0ubuntu1_all.deb
+ 4d8afa1f428ea8fbc83a2c5989c0b515 6790 contrib/games optional world-of-darkness-qt4_0.0.8-0ubuntu1_amd64.buildinfo

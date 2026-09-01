@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 01 Sep 2026 12:00:00 +0000
+Source: world-of-darkness
+Binary: world-of-darkness
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 0.0.8-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: jason <jason.a.brisbane@gmail.com>
+Changed-By: jason <jason.a.brisbane@gmail.com>
+Description:
+ world-of-darkness - This program allows you to create, store and modify WOD 20th Edi.
+Changes:
+ world-of-darkness (0.0.8-0ubuntu1) unstable; urgency=low
+ .
+   * .
+Checksums-Sha1:
+ a910b09c09957300df5f864803062a059ed55184 1239 world-of-darkness_0.0.8-0ubuntu1.dsc
+ 017ca31e4ed30f62738d5ca9c5f698f57b97ccbb 1522 world-of-darkness_0.0.8-0ubuntu1.diff.gz
+ 2e0c34c1cd30f814a6e4420f82698bc4bb407b0f 1206340 world-of-darkness_0.0.8-0ubuntu1_all.deb
+ f7231a8aabd41339b11e9c468f9c01be87629949 11717 world-of-darkness_0.0.8-0ubuntu1_amd64.buildinfo
+Checksums-Sha256:
+ 1b4bbb665b7ab267c145f2f468c3750d49749a979bb86b4bff38b4e09795252d 1239 world-of-darkness_0.0.8-0ubuntu1.dsc
+ 53515a8ebfeed892ea156d01274e8506c7fe0c83b154621415c204d854a802c2 1522 world-of-darkness_0.0.8-0ubuntu1.diff.gz
+ bb83a9514e690105159e615b383fd4542c1180dcdbfa1e08c348b77ad69f83fc 1206340 world-of-darkness_0.0.8-0ubuntu1_all.deb
+ 50a76e98bc0a8fe1e6a128fc21646369e0bf8bad0ff0057136e1156ef0dcce3c 11717 world-of-darkness_0.0.8-0ubuntu1_amd64.buildinfo
+Files:
+ 424784099eb7e645752668de95a02e34 1239 contrib/games optional world-of-darkness_0.0.8-0ubuntu1.dsc
+ 537812f04229dee26982b5f4d371bb04 1522 contrib/games optional world-of-darkness_0.0.8-0ubuntu1.diff.gz
+ 2e71b4eca336f17244ebb5d6008bb1de 1206340 contrib/games optional world-of-darkness_0.0.8-0ubuntu1_all.deb
+ df2271f47b9e0d69ac0a335ea595a861 11717 contrib/games optional world-of-darkness_0.0.8-0ubuntu1_amd64.buildinfo
