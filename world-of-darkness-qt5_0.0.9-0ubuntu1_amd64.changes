@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Sun, 11 Oct 2026 12:00:00 +0000
+Source: world-of-darkness-qt5
+Binary: world-of-darkness-qt5
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 0.0.9-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: jason <jason.a.brisbane@gmail.com>
+Changed-By: jason <jason.a.brisbane@gmail.com>
+Description:
+ world-of-darkness-qt5 - qt5 package for World_Of_Darkness
+Changes:
+ world-of-darkness-qt5 (0.0.9-0ubuntu1) unstable; urgency=low
+ .
+   * Expanded image and moved slightly to left.
+   * Moved Name to right of image and expanded field for large names
+   * Changed Concept field to TextArea to allow larger concepts.
+   * Expanded Backgrounds and Merits/Flaws Boxes.
+Checksums-Sha1:
+ 6cb6d96ca81545cf09b11ecca6af64ca9b073fd5 622 world-of-darkness-qt5_0.0.9-0ubuntu1.dsc
+ c56f8deb1935550215bea9c4dd0197e9e1584793 1075 world-of-darkness-qt5_0.0.9-0ubuntu1.tar.gz
+ 7d653c974513cf678f7a8ea42acc8a55c6de8914 1572 world-of-darkness-qt5_0.0.9-0ubuntu1_all.deb
+ ee2c5a06c2fe7b2b8b49ccc96def939f8189bd88 6793 world-of-darkness-qt5_0.0.9-0ubuntu1_amd64.buildinfo
+Checksums-Sha256:
+ c960a958dda7fa53652cd3551af67d06422d0d51583d387564222d0c064b2c50 622 world-of-darkness-qt5_0.0.9-0ubuntu1.dsc
+ 4b50449afd2dbf6f6d7736387007d2e389ebe56fba3385cc53afdf2ce6ce684f 1075 world-of-darkness-qt5_0.0.9-0ubuntu1.tar.gz
+ f1403a0d9fba214f2b3a0c08b9224df87ac89fb79cfd0433edcddf2810564f4a 1572 world-of-darkness-qt5_0.0.9-0ubuntu1_all.deb
+ 1c63a984f2cdf0353a5645841270b28e9fdabdfdb1761f5cc0c749109210cb96 6793 world-of-darkness-qt5_0.0.9-0ubuntu1_amd64.buildinfo
+Files:
+ f94ebfcab41695a4e9711f9e05ca8e1a 622 contrib/games optional world-of-darkness-qt5_0.0.9-0ubuntu1.dsc
+ f372f155ffd627613fcf2eed1557a7a6 1075 contrib/games optional world-of-darkness-qt5_0.0.9-0ubuntu1.tar.gz
+ 43c4f3487c1d97255c7652a20552ad69 1572 contrib/games optional world-of-darkness-qt5_0.0.9-0ubuntu1_all.deb
+ 2205d56233aa40710a8e31d189f2b9d6 6793 contrib/games optional world-of-darkness-qt5_0.0.9-0ubuntu1_amd64.buildinfo

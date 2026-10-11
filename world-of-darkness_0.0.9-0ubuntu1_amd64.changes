@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Sun, 11 Oct 2026 12:00:00 +0000
+Source: world-of-darkness
+Binary: world-of-darkness
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 0.0.9-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: jason <jason.a.brisbane@gmail.com>
+Changed-By: jason <jason.a.brisbane@gmail.com>
+Description:
+ world-of-darkness - This program allows you to create, store and modify WOD 20th Edi.
+Changes:
+ world-of-darkness (0.0.9-0ubuntu1) unstable; urgency=low
+ .
+   * Expanded image and moved slightly to left.
+   * Moved Name to right of image and expanded field for large names
+   * Changed Concept field to TextArea to allow larger concepts.
+   * Expanded Backgrounds and Merits/Flaws Boxes.
+Checksums-Sha1:
+ 728607989618a2f09ef1ce3f91336de04a095ef3 1239 world-of-darkness_0.0.9-0ubuntu1.dsc
+ 086bfb1c9d10214e305e9e788fd08327f822c843 1676 world-of-darkness_0.0.9-0ubuntu1.diff.gz
+ e9fd4eef96e6e77eeb7651a3edeb52dd34b73557 1207312 world-of-darkness_0.0.9-0ubuntu1_all.deb
+ fc46ccf5813632c90b0b44f952678ebb0038ef08 11727 world-of-darkness_0.0.9-0ubuntu1_amd64.buildinfo
+Checksums-Sha256:
+ b9b3a6051f923149046004a73da5c5c1b0d3f111cfcdb151507c18a4cf61bf38 1239 world-of-darkness_0.0.9-0ubuntu1.dsc
+ 2e091441f4a34d97c7b537645b959af9d5915ed4d57eb4769a0bfbdcfaddf73c 1676 world-of-darkness_0.0.9-0ubuntu1.diff.gz
+ 5d502dc6dfac807d445d42de140c6c37e02725a4d1394b94e514d5e60758ab35 1207312 world-of-darkness_0.0.9-0ubuntu1_all.deb
+ e550ffb11646f4eeefb522a24a46b6c98983bf59291a98aee0fc21c4ae30912b 11727 world-of-darkness_0.0.9-0ubuntu1_amd64.buildinfo
+Files:
+ 7ae61ac26f2854a95be279e7aa2f48fc 1239 contrib/games optional world-of-darkness_0.0.9-0ubuntu1.dsc
+ e64943016b5fbe99b6d2f0879c939ba4 1676 contrib/games optional world-of-darkness_0.0.9-0ubuntu1.diff.gz
+ 9e19e3b6103c35ced4aadaf4f344703a 1207312 contrib/games optional world-of-darkness_0.0.9-0ubuntu1_all.deb
+ 23b627f79ea1a3605c41617acdec34c4 11727 contrib/games optional world-of-darkness_0.0.9-0ubuntu1_amd64.buildinfo

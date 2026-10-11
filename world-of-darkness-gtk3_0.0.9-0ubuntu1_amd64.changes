@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Sun, 11 Oct 2026 12:00:00 +0000
+Source: world-of-darkness-gtk3
+Binary: world-of-darkness-gtk3
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 0.0.9-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: jason <jason.a.brisbane@gmail.com>
+Changed-By: jason <jason.a.brisbane@gmail.com>
+Description:
+ world-of-darkness-gtk3 - gtk3 package for World_Of_Darkness
+Changes:
+ world-of-darkness-gtk3 (0.0.9-0ubuntu1) unstable; urgency=low
+ .
+   * Expanded image and moved slightly to left.
+   * Moved Name to right of image and expanded field for large names
+   * Changed Concept field to TextArea to allow larger concepts.
+   * Expanded Backgrounds and Merits/Flaws Boxes.
+Checksums-Sha1:
+ cfa49f3af50b8825fdbe29e94a3ce390dc632c46 628 world-of-darkness-gtk3_0.0.9-0ubuntu1.dsc
+ 332ebcd7550850403723adcf05f35ac0d7605e34 1043 world-of-darkness-gtk3_0.0.9-0ubuntu1.tar.gz
+ be68609c0810ec3221b8b32da4b060a6240c7033 1580 world-of-darkness-gtk3_0.0.9-0ubuntu1_all.deb
+ 04918bc1f64375c77798c9f7675beaecf55b80c5 6801 world-of-darkness-gtk3_0.0.9-0ubuntu1_amd64.buildinfo
+Checksums-Sha256:
+ 7ffb1a994aa850dab58477b71d3e09cd0cdda435586a7ab74f023996adc5d039 628 world-of-darkness-gtk3_0.0.9-0ubuntu1.dsc
+ 2aee004fb0b8e15690dc76ffa36154a16b8f1de0c439de254604d909c127c3af 1043 world-of-darkness-gtk3_0.0.9-0ubuntu1.tar.gz
+ c4b13a83300e65d3823ce1393d39f9abb50b7272abb528e63cda4735967aa101 1580 world-of-darkness-gtk3_0.0.9-0ubuntu1_all.deb
+ 10552eb45aa12981f11b16e6e96e0860cf41f36c14bac1998505914c404aa9e7 6801 world-of-darkness-gtk3_0.0.9-0ubuntu1_amd64.buildinfo
+Files:
+ 5c45a90be4343b29f5408caa9690acba 628 contrib/games optional world-of-darkness-gtk3_0.0.9-0ubuntu1.dsc
+ 27f7b86bc7820e29f79310d4135d201c 1043 contrib/games optional world-of-darkness-gtk3_0.0.9-0ubuntu1.tar.gz
+ b825a115ff83a7e43ee5d42a8603eac5 1580 contrib/games optional world-of-darkness-gtk3_0.0.9-0ubuntu1_all.deb
+ 46cbd0a67034b6e833be2acef4e1938c 6801 contrib/games optional world-of-darkness-gtk3_0.0.9-0ubuntu1_amd64.buildinfo
